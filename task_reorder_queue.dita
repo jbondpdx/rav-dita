@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bjl_tzm_pj">
+    <title>Reordering Your Queue</title>
+    <shortdesc>You can rearrange the order of your queue.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Context for the current task</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>To reorder your queue:</cmd>
+                <choices id="choices_rv1_m1n_pj">
+                    <choice>Use the green arrows to drag your projects to a new position in your
+                        queue.</choice>
+                    <choice>Edit the numbers next to each project and click <uicontrol>Save New
+                            Order</uicontrol>.</choice>
+                </choices>
+            </step>
+        </steps>
+    </taskbody>
+</task>

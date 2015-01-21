@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_link_flickr">
+    <title>Linking Your Flickr Account to Ravelry</title>
+    <shortdesc>To add photos from  Flickr, you will first need to link your Flickr account to your
+        Ravelry account.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To link your Flickr account to Ravelry:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>From any of your saved projects or stash items, click <uicontrol>Add
+                        Photos</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Link to Your Flickr Account</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>When the Flickr/Yahoo login page appears, login to your Flickr account.</cmd>
+            </step>
+            <step>
+                <cmd>When asked if you will allow Ravelry to link to your Flickr account, click
+                        <uicontrol>OK</uicontrol>. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

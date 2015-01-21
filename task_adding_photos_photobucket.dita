@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_opf_wtb_3j">
+    <title>Adding Photos from Photobucket</title>
+    <shortdesc>You can add photos to your project or stash pages from your Photobucket
+        account.</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step conref="conrefs.dita#task_conrefs/step_to_add_photos">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Photobucket</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Type your Photobucket username into the field and click <uicontrol>Search
+                        Photos</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select an album from the dropdown menu and click <uicontrol>Search
+                        Photos</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the photo you want to upload it to Ravelry.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

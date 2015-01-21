@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_l4k_jlv_mj">
+    <title>Deleting Projects from Your Queue</title>
+    <shortdesc>Remove items you no longer want to make from your queue.</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>To delete an item from your queue, click the <uicontrol>x</uicontrol> next to a
+                    the item.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

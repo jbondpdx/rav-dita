@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dtz_k2m_hj">
+    <title>Adding Projects to Your Queue</title>
+    <shortdesc>Keep track of the projects you want to make in your queue.</shortdesc>
+    <taskbody>
+        <context>Add projects you want to make in the future to your queue. You can add projects to
+            your queue from either yarn or pattern pages.</context>
+        <steps>
+            <step>
+                <cmd>From any yarn or pattern page, click <uicontrol>Add to Queue</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Complete the Pattern and Yarn fields.</cmd>
+            </step>
+            <step importance="optional">
+                <cmd>If you want to link to patterns or yarns in Ravelry's database, click the
+                        <uicontrol>Link</uicontrol> icon next to the field.</cmd>
+            </step>
+            <step importance="optional">
+                <cmd>Complete the fields to add tags, a project recipient, a deadline, or
+                    notes.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Save</uicontrol>. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

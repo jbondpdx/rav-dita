@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_y5h_lb2_hj">
+    <title>Searching Patterns</title>
+    <shortdesc>Search the database for specific patterns.</shortdesc>
+    <taskbody>
+        <context>
+            <p>If you know what you are looking for, search the database for a specific pattern.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click <uicontrol>Patterns</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>In the search field, type a search term. Search terms can include tags, type of
+                    project, or the name of the pattern, designer, or publisher. Click
+                        <uicontrol>Search</uicontrol>. </cmd>
+            </step>
+            <step importance="optional">
+                <cmd>Select filters to narrow your results.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rv2_rg2_hj">
+    <title>Adding Profile Photos</title>
+    <shortdesc>Add a personal photo to your profile.</shortdesc>
+    <taskbody>
+        <context>Your profile picture or <term>Ravatar</term> represents you throughout Ravelry. It
+            appears on your profile page, next to your projects, in your groups: anywhere you are
+            active. <note type="remember">Ravatars may not contain nudity, profanity, or hate
+                speech.</note></context>
+        <steps>
+            <step conref="conrefs.dita#task_conrefs/step_click_username">
+                <cmd/>
+            </step>
+            <step conref="conrefs.dita#task_conrefs/step_edit_profile">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Add Profile Pics</uicontrol>.</cmd>
+            </step>
+            <step>
+                <note type="note">Profile photos must be PNG or JPG format and must be uploaded from
+                    your computer. </note>
+                <cmd>Click <uicontrol>Browse</uicontrol> to browse to the photo on your
+                    computer.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Upload</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

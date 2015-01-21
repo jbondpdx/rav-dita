@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_upn_sdn_pj">
+    <title>Browsing Patterns</title>
+    <shortdesc>If you're not sure exactly what pattern you're looking for, browse through the
+        database.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Browse our lists of tags, categories, and popular and recently added patterns in the
+                         Patterns tab. If you prefer
+                more targeted browsing, use the Pattern Browser and Advanced Search to narrow your
+                browsing to specific categories.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on <uicontrol>Patterns</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Pattern Browser &amp; Advanced Search</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click the filter options to narrow your browsing results by craft, tag,
+                    category, yarn weight, yardage, difficulty, and other attributes. You can apply
+                    multiple filters to your results.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

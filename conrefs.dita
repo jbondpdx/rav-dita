@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_conrefs">
+    <title>Conrefs</title>
+    <shortdesc>These are my conrefs.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Context for the current task</p>
+        </context>
+        <steps>
+            <step id="step_to_add_photos">
+                <cmd>From the project or stash page you want to add photos to, click <uicontrol>Add
+                        Photos</uicontrol>.</cmd>
+            </step>
+            <step id="step_click_username">
+                <cmd>Click on your <uicontrol>username</uicontrol> to go to your profile.</cmd>
+            </step>
+            <step id="step_edit_profile">
+                <cmd>Click <uicontrol>Edit My Profile</uicontrol>.</cmd>
+            </step>
+            <step id="step_click_save">
+                <cmd>Click <uicontrol>Save Changes</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

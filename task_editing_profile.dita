@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_it5_vd2_hj">
+    <title>Editing Your Profile</title>
+    <shortdesc>Tell other Ravelers more about yourself in your profile</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step conref="conrefs.dita#task_conrefs/step_click_username">
+                <cmd/>
+            </step>
+            <step conref="conrefs.dita#task_conrefs/step_edit_profile">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Set your privacy options.</cmd>
+            </step>
+            <step>
+                <cmd>Fill in the URL for your blog or website. A thumbnail of your site will appear
+                    on your profile page.</cmd>
+            </step>
+            <step>
+                <cmd>Complete your personal information with your location, birthday, favorite
+                    colors and curse words, and other information. Fill out as much or as little as
+                    you like.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Add Social Sites</uicontrol> to link your Facebook, Twitter,
+                    Yelp, or other social network accounts to your profile page. This helps people
+                    find you outside of Ravelry.</cmd>
+            </step>
+            <step conref="conrefs.dita#task_conrefs/step_click_save">
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

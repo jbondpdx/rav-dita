@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hpz_gtb_3j">
+    <title>Adding Photos from Flickr</title>
+    <shortdesc>You can add photos to your project and stash pages from your Flickr account. Ravelry
+        is optimized to work with Flickr. </shortdesc>
+    <taskbody>
+        <prereq>Before you can add photos from Flickr, you will need to <xref
+                href="task_link_flickr.dita#task_link_flickr">link your Flickr account</xref> to
+            your Ravelry account.</prereq>
+        <context>
+            <p><note type="note">Your photos must be publicly viewable on Flickr to appear on
+                    Ravelry. Private photos or photos deleted from Flickr are automatically deleted
+                    from Ravelry.</note>To add photos from Flickr to your project and stash
+                pages:</p>
+        </context>
+        <steps>
+            <step conref="conrefs.dita#task_conrefs/step_to_add_photos">
+                <cmd/>
+            </step>
+            <step importance="optional">
+                <cmd>From the dropdown menu, select the Flickr set containing your photos.</cmd>
+            </step>
+            <step importance="optional">
+                <cmd>In the tag field, add any photo tags you want to search for.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Refresh</uicontrol> to show the results of your photo
+                    search.</cmd>
+            </step>
+            <step>
+                <cmd>Select the photo you want and drag it to the photo area.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

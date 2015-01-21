@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_mxs_42m_hj">
+ <title>Your Queue</title>
+ <shortdesc>Your Queue is your list of planned projects.</shortdesc>
+ <conbody>
+  <p>You can keep a list of projects you plan to make in your Queue. You can add to your Queue from
+   yarn or pattern pages. For each Queue item, you can include information about what yarn you plan
+   to use, who the project is for, and whether you have a deadline for the project. You can organize
+   and order your Queue by tag, yarn type, priority, or deadline. </p>
+ </conbody>
+</concept>

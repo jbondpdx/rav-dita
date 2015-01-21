@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_t3p_vfm_hj">
+    <title>Getting Started on Ravelry</title>
+    <shortdesc>New to Ravelry? Here's how to get started. </shortdesc>
+    <taskbody>
+        <context>
+            <p>If you're new to Ravelry, the best way to learn is to just jump in and start
+                exploring. On Ravelry, you can track your projects and stash, find new patterns and
+                yarns, and connect with other knitters, crocheters, and spinners. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

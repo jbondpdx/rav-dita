@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Ravelry Help</title>
+ <topicref href="concept_getting_started.dita" collection-type="choice" audience="novice">
+  <topicref href="task_editing_profile.dita">
+   <topicref href="task_adding_profile_photo.dita"/>
+  </topicref>
+  <topicref href="concept_finding_patterns.dita" collection-type="choice">
+   <topicref href="task_searching_patterns.dita"/>
+   <topicref href="task_browsing_patterns.dita"/>
+  </topicref>
+  <topicref href="task_adding_new_project.dita"/>
+  <topicref href="task_joining_groups.dita">
+   <topicref href="task_reply_discussions.dita"/>
+   <topicref href="task_starting_discussions.dita"/>
+  </topicref>
+ </topicref>
+ <topicref href="concept_notebook.dita"/>
+ <topicref href="concept_queue.dita">
+  <topicref href="task_adding_queue.dita"/>
+  <topicref href="task_organizing_queue.dita"/>
+  <topicref href="task_reorder_queue.dita"/>
+  <topicref href="task_deleting_queue.dita"/>
+ </topicref>
+ <topicref href="concept_projects.dita">
+  <topicref href="task_adding_new_project.dita"/>
+  <topicref href="task_organizing_projects.dita"/>
+  <topicref href="task_editing_projects.dita"/>
+ </topicref>
+ <topicref href="concept_stash.dita">
+  <topicref href="task_adding_stash.dita"/>
+  <topicref href="task_assigning_stash.dita"/>
+  <topicref href="task_deleting_stash.dita"/>
+ </topicref>
+ <topicref href="concept_adding_photos.dita" collection-type="choice">
+  <topicref href="task_add_photos_flickr.dita" platform="desktop">
+   <topicref href="task_link_flickr.dita" linking="none"/>
+  </topicref>
+  <topicref href="task_adding_photos_photobucket.dita" platform="desktop"/>
+  <topicref href="task_add_photos_web.dita" platform="desktop"/>
+  <topicref href="task_add_photos_computer.dita" platform="desktop"/>
+  <topicref href="task_adding_photos_mobile.dita" platform="mobile"/>
+ </topicref>
+ <topicref href="concept_managing_account.dita">
+  <topicref href="task_editing_profile.dita"/>
+  <topicref href="task_adding_profile_photo.dita"/>
+  <topicref href="task_change_password.dita"/>
+  <topicref href="task_change_username.dita"/>
+ </topicref>
+ <topicref href="concept_tags.dita"/>
+ <topicref href="ref_needle_hook_sizes.dita"/>
+ <topicref href="ref_yarn_weights.dita"/>
+ <reltable>
+  <relrow/>
+ </reltable>
+ <reltable>
+  <relheader>
+   <relcolspec/>
+   <relcolspec/>
+   <relcolspec/>
+  </relheader>
+  <relrow>
+   <relcell>
+    <topicref href="concept_notebook.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="concept_queue.dita"/>
+    <topicref href="concept_projects.dita"/>
+    <topicref href="concept_stash.dita"/>
+    <topicref href="task_adding_new_project.dita" linking="sourceonly"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept_tags.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="task_adding_new_project.dita"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="ref_yarn_weights.dita" linking="targetonly"/>
+   </relcell>
+   <relcell>
+    <topicref href="task_adding_stash.dita"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="ref_needle_hook_sizes.dita"/>
+   </relcell>
+   <relcell>
+    <topicref href="task_adding_new_project.dita"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell>
+    <topicref href="concept_adding_photos.dita"/>
+   </relcell>
+   <relcell linking="targetonly">
+    <topicref href="task_adding_profile_photo.dita"/>
+   </relcell>
+   <relcell/>
+  </relrow>
+ </reltable>
+</map>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_szk_ytb_3j">
+    <title>Adding Photos from Your Computer</title>
+    <shortdesc>You can add photos to your stash or project pages directly from your
+        computer.</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step conref="conrefs.dita#task_conrefs/step_to_add_photos">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Upload from Computer</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Select File to Upload</uicontrol> to browse for your
+                    photo.</cmd>
+            </step>
+            <step>
+                <cmd>When you have selected the photo, click <uicontrol>Upload Now</uicontrol>. Your
+                    photo will automatically be resized.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

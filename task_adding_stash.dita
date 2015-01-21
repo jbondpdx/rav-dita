@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_p2q_xf2_hj">
+    <title>Adding New Stash Yarn</title>
+    <shortdesc>Add new yarns to your stash so you always know what you have on hand.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Context for the current task</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Task step.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_u5g_d2m_hj">
+    <title>Replying to Group Discussions</title>
+    <shortdesc>Join discussions to chat about your common interests.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Join the discussions in your groups to share ideas and get to know your fellow
+                Ravelers better.  </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>From your group's page, click on <uicontrol>Discussions</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>To reply to an existing discusssion, click the thread you want to post
+                    in.</cmd>
+            </step>
+            <step>
+                <cmd>You can reply to the thread or you can reply to a specific post.</cmd>
+                <choices id="choices_yhd_v4p_pj">
+                    <choice>Click <uicontrol>Reply to Thread</uicontrol> to post a reply to the
+                        entire thread, rather than to one specific person's post.</choice>
+                    <choice>Click <uicontrol>Reply</uicontrol> on a specific post to reply to that
+                        post. The original poster will be notified of your reply.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Compose your post and click <uicontrol>Post Reply</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click Reply to Thread to </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

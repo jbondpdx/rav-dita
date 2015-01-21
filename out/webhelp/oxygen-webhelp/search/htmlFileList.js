@@ -1,0 +1,25 @@
+//List of files which are indexed.
+fl = new Array();
+fl["0"]= "concept_notebook.html";
+fl["1"]= "concept_queue.html";
+fl["2"]= "ref_needle_hook_sizes.html";
+fl["3"]= "ref_yarn_weights.html";
+fl["4"]= "task_add_photos_computer.html";
+fl["5"]= "task_add_photos_flickr.html";
+fl["6"]= "task_add_photos_web.html";
+fl["7"]= "task_adding_new_project.html";
+fl["8"]= "task_adding_photos.html";
+fl["9"]= "task_adding_photos_photobucket.html";
+fl["10"]= "task_adding_profile_photo.html";
+fl["11"]= "task_adding_queue.html";
+fl["12"]= "task_adding_stash.html";
+fl["13"]= "task_connect_flickr.html";
+fl["14"]= "task_creating_profile.html";
+fl["15"]= "task_finding_patterns.html";
+fl["16"]= "task_finding_yarn.html";
+fl["17"]= "task_getting_around.html";
+fl["18"]= "task_getting_started.html";
+fl["19"]= "task_joining_groups.html";
+fl["20"]= "task_organizing_queue.html";
+fl["21"]= "task_posting_discussions.html";
+var doStem = false

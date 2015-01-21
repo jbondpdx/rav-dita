@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_z3s_15b_3j">
+    <title>Adding Photos from the Web</title>
+    <shortdesc>If you use a website other than Flickr or Photobucket to store your photos, you can
+        still add them to your project or stash pages.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Pulling images from the web is known as <term>slurping</term>. Please only do this if
+                you have permission from the host.</p>
+        </context>
+        <steps>
+            <step conref="conrefs.dita#task_conrefs/step_to_add_photos">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Slurp from Web</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>In the field, type or paste the complete URL for your photo and click
+                        <uicontrol>Slurp It!</uicontrol>.</cmd>
+            </step>
+            <step>
+                <note>If you aren't the copyright owner of the photo you're using, please make sure
+                    you have permission to use it.</note>
+                <cmd importance="optional">To change the copyright notice below your photo, just
+                    click on it and type in the correct information.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

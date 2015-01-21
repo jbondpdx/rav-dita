@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hqj_sjv_mj">
+    <title>Adding Photos with the Mobile Uploader</title>
+    <shortdesc>You can add photos to your project and stash pages from your mobile phone with the
+        Ravelry Mobile Uploader.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Context for the current task</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Task step.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

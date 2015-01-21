@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dd3_q2m_hj">
+    <title>Organizing Your Queue</title>
+    <shortdesc>Organizing your queue can help you find the project you want quickly. </shortdesc>
+    <taskbody>
+        <context>
+            <p>Context for the current task</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on <uicontrol>Organize</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Create New Set</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Give the new set a name and at least one tag, then click
+                        <uicontrol>Create</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the <uicontrol>Set</uicontrol> dropdown to select set tags for each
+                    queue item.</cmd>
+            </step>
+            <step>
+                <cmd>View your sets by clicking on your list of set tags or the tabs at the top of
+                    the page. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

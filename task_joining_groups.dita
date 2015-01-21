@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_pck_vll_hj">
+    <title>Joining Groups</title>
+    <shortdesc> Join groups to meet others who share your interests.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Ravelry users have created thousands of interest groups, so you can find knitters and
+                crocheters who share your interests, both fiber- and non-fiber-related. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on <uicontrol>Groups</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Browse or search groups by location, interest, or tags.</cmd>
+                <choices id="choices_g44_plp_pj">
+                    <choice>Click on <uicontrol>Browse by Location</uicontrol> to find groups in
+                        various geographical locations.</choice>
+                    <choice>Click on <uicontrol>Search by Tags</uicontrol> to view a cloud of tags
+                        for different groups.</choice>
+                    <choice>Type a search term in the search field and click
+                            <uicontrol>Search</uicontrol> to look for specific groups.  </choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Once you have found a group you want to join, click <uicontrol>Join
+                        Group</uicontrol> on that group's page.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

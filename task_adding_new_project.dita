@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_f5z_bf2_hj">
+    <title>Adding a New Project</title>
+    <shortdesc>Add your new projects to your Ravelry notebook.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Add new projects to the project page in your personal notebook to keep track of
+                details, notes, and progress.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on <uicontrol>My Notebook</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Add Project</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Give your project any name you like.</cmd>
+            </step>
+            <step>
+                <cmd>Fill in the name of the pattern and the source of the pattern and click
+                        <uicontrol>Continue</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Complete your project information with size, yarn, tags, and other information
+                    you want to add. </cmd>
+                <substeps id="substeps_oz2_1s1_pj">
+                    <substep importance="optional">
+                        <cmd importance="optional">Click <uicontrol>Use Stash Yarn</uicontrol> if
+                            you want to link to yarn already listed in your stash.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Save Changes</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
