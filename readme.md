@@ -1,1 +1,1 @@
-My final DITA project for the DITA/XML class at Portland State University.
+My final DITA project for the DITA/XML class at Portland State University. Winter 2012.
